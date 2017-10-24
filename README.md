@@ -1,4 +1,4 @@
-Code Examples and Notes from project [ROSALIND](http://rosalind.info).
+Code samples and notes from [ROSALIND](http://rosalind.info).
 
 ## A Rapid Introduction to Molecular Biology
 
